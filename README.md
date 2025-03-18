@@ -1,4 +1,7 @@
 # TIMERAPP
+<div align="center">
+<img src="assets/images/icon.png" height="200" alt="Pomodoro Timer Screen"   />
+</div>
 
 ## Overview
 TIMERAPP is a comprehensive time management application built with React Native and Expo. It offers three essential timing tools to boost your productivity and help you manage your time effectively.
