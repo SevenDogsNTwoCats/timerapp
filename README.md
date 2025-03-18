@@ -3,6 +3,14 @@
 ## Overview
 TIMERAPP is a comprehensive time management application built with React Native and Expo. It offers three essential timing tools to boost your productivity and help you manage your time effectively.
 
+## App Screenshots
+
+<p align="center">
+  <img src="image-3.png" height="500" alt="Pomodoro Timer Screen"   />
+  <img src="image-2.png" height="500" alt="Stopwatch Screen"/>
+  <img src="image-1.png" height="500" alt="Countdown Timer Screen"  />
+</p>
+
 ## Features
 
 ### 1. Pomodoro Timer
@@ -106,6 +114,16 @@ npm run build
 # or
 eas build
 ```
+
+## Try APK
+
+🤖 Open this link on your Android devices (or scan the QR code) to install the app:
+https://expo.dev/accounts/ae9/projects/pomodoro/builds/3d3e83e9-1db3-4892-8995-bc41e0d8a86e
+or scan QR Code
+
+![alt text](image.png)
+
+
 
 ## Contributing
 
