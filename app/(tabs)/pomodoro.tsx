@@ -78,14 +78,11 @@ export default function Screen() {
       intervalRef.current = setInterval(() => {
         setTime((prevTime) => {
           if (prevTime <= 1) {
-            // Determinar qué tipo de temporizador terminó
-            const timerCompleted = mode === "focus" ? "focus" : "break";
-
-            // Save the completed timer type
-            setCompletedTimerType(timerCompleted);
+            // Guardar correctamente el tipo de temporizador que acaba de terminar
+            setCompletedTimerType(mode);
 
             // Play alarm sound when timer ends
-            playAlarmSound(timerCompleted);
+            playAlarmSound(mode);
 
             // Show alert dialog
             setAlertDialogOpen(true);
@@ -94,8 +91,7 @@ export default function Screen() {
             setIsActive(false);
             clearInterval(intervalRef.current!);
 
-            // Return the current time (will be changed when user responds to dialog)
-            return prevTime;
+            return 0;
           }
           return prevTime - 1;
         });
