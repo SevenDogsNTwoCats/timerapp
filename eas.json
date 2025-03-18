@@ -5,12 +5,10 @@
   },
   "build": {
     "development": {
-      "name": "Timerapp",
       "developmentClient": true,
       "distribution": "internal"
     },
     "preview": {
-      "name": "Timerapp",
       "distribution": "internal",
       "android": {
         "buildType": "apk"
