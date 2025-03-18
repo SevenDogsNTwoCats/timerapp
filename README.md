@@ -127,10 +127,10 @@ eas build
 ## Try APK
 
 🤖 Open this link on your Android devices (or scan the QR code) to install the app:
-https://expo.dev/accounts/ae9/projects/pomodoro/builds/3d3e83e9-1db3-4892-8995-bc41e0d8a86e
+https://expo.dev/accounts/ae9/projects/pomodoro/builds/3b13147e-96a0-4893-844c-319a028f6b4c
 or scan QR Code
 
-![alt text](image.png)
+![alt text](image-7.png)
 
 
 
