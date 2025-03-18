@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "pomodoro",
+    "name": "Timerapp",
     "slug": "pomodoro",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -24,7 +24,7 @@
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.ae9.pomodoro"
+      "package": "com.ae9.timerapp"
     },
     "web": {
       "bundler": "metro",
@@ -44,6 +44,7 @@
       "eas": {
         "projectId": "96dc156b-da4d-423a-badf-f36de096bbfa"
       }
-    }
+    },
+    "owner": "ae9"
   }
 }
