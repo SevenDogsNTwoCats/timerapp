@@ -10,6 +10,12 @@ TIMERAPP is a comprehensive time management application built with React Native 
   <img src="image-2.png" height="500" alt="Stopwatch Screen"/>
   <img src="image-1.png" height="500" alt="Countdown Timer Screen"  />
 </p>
+<p align="center">
+  <img src="image-4.png" height="500" alt="Temporizador finalizado"   />
+  <img src="image-5.png" height="500" alt="Pomodoro run"/>
+  <img src="image-6.png" height="500" alt="Stopwatch run"  />
+</p>
+
 
 ## Features
 
